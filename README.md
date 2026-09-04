@@ -3,4 +3,5 @@
 ## git branching
 
 # Status
-Working through branches. Slightly confused but getting there.
+Learning Git. Branches make sense now; merge conflicst are next
+
